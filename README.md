@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
-## Editing Prototype & UI Design
+## Prototype & UI Design
 
 ### 메인 페이지
 ![](https://images.velog.io/images/skagns211/post/510b7de0-c749-42e0-bae4-5b7883da3a97/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png)
