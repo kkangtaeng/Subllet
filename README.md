@@ -3,15 +3,38 @@
 ## What service is it?
 
 ### Subllet: subscribe + wallet의 합성어
-사용하는 구독 서비스를 지갑으로 돈을 관리하듯 편리하게 관리할 수 있습니다. 
+사용하는 구독 서비스를 지갑으로 돈을 관리하듯 편리하게 관리할 수 있습니다.
+
+나에게 맞는 구독 서비스를 찾고,
+<br>사용 중인 구독 서비스를 관리할 수 있는 구독 관리 플랫폼입니다.</br>
+
+넘쳐나는 구독 서비스, 나에게 맞는 서비스는 무엇일까?
+<br>흩어져 있는 구독 서비스, 내가 어떤 서비스를 구독하고 있지?</br>
+
+구독 경제에서 똑똑한 소비를 위한 선택,
+<br>후회 없는 선택을 하고 싶은 당신에게 추천합니다.</br>
+
+<br>
+
+👉&nbsp; [Subllet 바로가기](https://www.subllet.co.kr)
+
+<br>
 
 이런 기능이 가능합니다.
-- 본인이 구독한 서비스의 금액(총)과 결제일을 확인할 수 있습니다.
-- 검색을 통해 본인이 원하는 구독 서비스를 빠르게 찾을 수 있습니다.
-- 필터링을 통해 비슷한 서비스를 손쉽게 비교할 수 있습니다.
-- 서비스를 구독하기 전 서비스 상세에 달린 댓글과 좋아요를 확인할 수 있습니다.
-- 서비스를 사용한 뒤에는 댓글과 좋아요로 서비스에 대한 평가를 남길 수 있습니다.
-- 궁금한 사항은 고객센터 문의글에 작성하고, 댓글을 통해 소통할 수 있습니다.
+- 구독한 서비스의 금액(총)과 결제일을 확인할 수 있어요.
+- 결제까지 10일 이내로 남은 서비스의 결제일을 확인할 수 있어요.
+- 필터링을 통해 카테고리, 가격, 체험하기 유무 별로 서비스를 찾을 수 있어요.
+- 검색을 통해 본인이 원하는 구독 서비스를 신속하게 찾을 수 있어요.
+- 구독하기 전 서비스 상세 페이지에 달린 댓글과 좋아요를 확인할 수 있어요.
+- 서비스를 이용한 뒤에는 댓글과 좋아요로 서비스에 대한 평가를 남길 수 있어요.
+- 관심 있는 구독 서비스를 스크랩하고, 마이페이지에서 확인할 수 있어요.
+- 마이페이지에서 프로필 이미지와 닉네임을 변경하고, 삭제할 수 있어요.
+
+<br>
+
+👉&nbsp; [Subllet 바로가기](https://www.subllet.co.kr)
+
+<br>
 
 ## Team: One island, three lands
 
@@ -46,6 +69,9 @@
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
+## Architecture diagram
+<img width="1220" alt="스크린샷 2021-12-21 06 44 15" src="https://user-images.githubusercontent.com/85797255/146836633-2b2ca020-af6b-4163-9684-b271c64736fc.png">
+
 ## Prototype & UI Design
 
 ### 메인 페이지
@@ -79,6 +105,4 @@
 <img width="896" alt="스크린샷 2021-12-16 오전 3 18 09" src="https://user-images.githubusercontent.com/80724255/146243061-c81d5bea-2fd1-4e7c-8ae1-adbd48d4b926.png">
 
 ## API 문서
-[gitbook API 문서 바로가기](https://kim-jong-seo.gitbook.io/subllet/)
-
-## Architecture diagram
+👉&nbsp; [gitbook API Docs](https://kim-jong-seo.gitbook.io/subllet/)
